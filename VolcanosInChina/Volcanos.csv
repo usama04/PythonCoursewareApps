@@ -1,0 +1,15 @@
+,Number,Volcano Name,Country,Region,Latitude,Longitude,Elev,Type,Status,Last KnownEruption
+0,1005-011,Arshan,China,China-E,47.5,120.7,,Cinder cones,Radiocarbon,D
+1,0705-001,Hainan Dao,China,SE Asia,19.7,110.1,,Pyroclastic cones,Historical,D2
+2,1005-01-,Honggeertu,China,China-E,41.47,113,1700,Cinder cone,Holocene,Unknown
+3,1005-04-,Jingpohu,China,China-E,44.08,128.83,500,Volcanic field,Radiocarbon,D7
+4,1005-02-,Keluo Group,China,China-E,49.37,125.92,670,Pyroclastic cone,Holocene,U
+5,1004-03-,Kunlun Volc Group,China,China-W,35.52,80.2,5808,Pyroclastic cone,Historical,D2
+6,0705-01-,Leizhou Bandao,China,SE Asia,20.83,109.78,259,Volcanic field,Holocene,U
+7,1005-05-,Longgang Group,China,China-E,42.33,126.5,1000,Cinder cone,Radiocarbon,D4
+8,0801-032,Tatun Group,China,Taiwan,25.17,121.52,1120,Stratovolcano,Pleistocene-Fumarol,Q
+9,0705-11-,Tengchong,China,China-S,25.32,98.47,2865,Pyroclastic cone,Historical,D5
+10,1004-02-,Tianshan Volc Group,China,China-W,42.5,82.5,0,Volcanic field,Historical,D6
+11,1004-01-,Turfan,China,China-W,42.9,89.25,0,Cone,Historical,D6
+12,1004-04-,Unnamed,China,China-W,35.85,91.7,5400,Volcanic field,Holocene,U
+13,1005-03-,Wudalianchi,China,China-E,48.72,126.12,597,Volcanic field,Historical,D4
